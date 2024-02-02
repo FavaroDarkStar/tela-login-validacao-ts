@@ -7,13 +7,13 @@ Este projeto foi desenvolvido como parte do curso **Implementando Uma Tela de Lo
 ![tela-login](./public/preview3.png)
 
 ## Descrição
-O objetivo do projeto é fazer a validação de campos em um form utilizando React e TypeScript
+O objetivo do projeto é fazer a validação de campos em um form utilizando React e TypeScript.
 
 ## Funcionalidades
 - Validar os campos:
   - Email
   - Senha
-- Caso algum campo do formulários for inválido desabilita o botão 'Entrar' e exibe de forma visual para ao usuário.
+- Caso algum campo do formulário for inválido desabilita o botão 'Entrar' e exibe de forma visual para ao usuário.
 
 ## Como usar
 
