@@ -2,9 +2,9 @@
 
 Este projeto foi desenvolvido como parte do curso **Implementando Uma Tela de Login Com Validação Usando TypeScript - Digital Innovation One**.
 
-![tela-login](./public/preview1.jpeg)
-![tela-login](./public/preview2.jpeg)
-![tela-login](./public/preview3.jpeg)
+![tela-login](./public/preview1.png)
+![tela-login](./public/preview2.png)
+![tela-login](./public/preview3.png)
 
 ## Descrição
 O objetivo do projeto é fazer a validação de campos em um form utilizando React e TypeScript
